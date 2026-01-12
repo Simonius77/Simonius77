@@ -1,12 +1,12 @@
 # 👋 Hola, soy Simon Catalina Garcia
 
-Soy un **desarrollador** web en formación, una persona responsable, organizada y con facilidad para trabajar en equipo. Me gusta participar en todo el ciclo de desarrollo, desde la idea inicial hasta la puesta en producción, siempre buscando buenas prácticas y código limpio. [web:7][web:10]
+Soy un **desarrollador** web en formación, una persona responsable, organizada y con facilidad para trabajar en equipo. Me gusta participar en todo el ciclo de desarrollo, desde la idea inicial hasta la puesta en producción, siempre buscando buenas prácticas y código limpio.
 
 ## 🚀 Sobre mí
 
-- Estudiante de Desarrollo Web, en constante aprendizaje y mejora continua. [web:8][web:11]  
-- Enfocado en construir aplicaciones funcionales, mantenibles y bien estructuradas. [web:7]  
-- Acostumbrado a colaborar con otras personas desarrolladoras, compartir conocimiento y recibir feedback para crecer profesionalmente. [web:8][web:14]  
+- Estudiante de Desarrollo Web, en constante aprendizaje y mejora continua.  
+- Enfocado en construir aplicaciones funcionales, mantenibles y bien estructuradas. 
+- Acostumbrado a colaborar con otras personas desarrolladoras, compartir conocimiento y recibir feedback para crecer profesionalmente.
 
 ## 🧠 Tecnologías y lenguajes
 
@@ -28,21 +28,21 @@ Soy un **desarrollador** web en formación, una persona responsable, organizada 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) [web:31][web:34]  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
 </div>
 
 ## 📚 Lo que estoy aprendiendo
 
-- Profundizar en buenas prácticas de Java y JavaScript (patrones, testing, clean code). [web:7][web:10]  
-- Mejores estructuras de bases de datos relacionales y no relacionales (SQL y MongoDB). [web:7]  
-- Creación de aplicaciones web completas con PHP, HTML, CSS y JavaScript. [web:10]  
+- Profundizar en buenas prácticas de Java y JavaScript (patrones, testing, clean code). 
+- Mejores estructuras de bases de datos relacionales y no relacionales (SQL y MongoDB).
+- Creación de aplicaciones web completas con PHP, HTML, CSS y JavaScript.  
 
 ## 🤝 Trabajo en equipo
 
-- Experiencia colaborando con Git y GitHub para control de versiones y revisión de código. [web:11][web:10]  
-- Comunicación clara y respeto por las ideas del resto del equipo. [web:8]  
-- Actitud abierta al feedback y a aprender de personas más experimentadas. [web:8][web:14]  
+- Experiencia colaborando con Git y GitHub para control de versiones y revisión de código.  
+- Comunicación clara y respeto por las ideas del resto del equipo. 
+- Actitud abierta al feedback y a aprender de personas más experimentadas.  
 
 ## 📫 Contacto
 
