@@ -42,7 +42,13 @@ Soy un **desarrollador** web en formación, una persona responsable, organizada 
 
 - Experiencia colaborando con Git y GitHub para control de versiones y revisión de código.  
 - Comunicación clara y respeto por las ideas del resto del equipo. 
-- Actitud abierta al feedback y a aprender de personas más experimentadas.  
+- Actitud abierta al feedback y a aprender de personas más experimentadas.
+
+## 📚 Proyectos Wordpress en los que he trabajado
+
+🔗 Web: https://cataloniagourmet.com/
+🔗 Web: https://barcelonawinesonline.com/
+🔗 Web: https://alkimiawines.com/
 
 ## 📫 Contacto
 
